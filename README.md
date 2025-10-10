@@ -7,10 +7,11 @@ LongQin-java 是一款基于Spring Boot、Spring Cloud、Vue3、Element Plus的
 QQ群：413025488
 
 #### 在线体验
-- JAVA版本：http://121.40.200.58/
-默认账号密码：admin/11111111
-- .NET版本：https://www.signsing.com
+http://signsing.com 或 http://121.40.200.58/
 默认账号密码：custom/11111111
+
+#### svg编辑器
+http://121.40.200.58:8080/
 
 #### 内置功能
 - 公司管理：以公司为单位进行数据权限隔离，公司内部员工只有本公司数据权限。
@@ -355,3 +356,4 @@ http {
 - ctrl+z和ctrl+y
 8、自定义图形
 - 图形设计好后，点击工具栏的保存按钮，保存成功后刷新页面，在左侧图形库中显示自定义的图形，拖动即可完成加载。
+
